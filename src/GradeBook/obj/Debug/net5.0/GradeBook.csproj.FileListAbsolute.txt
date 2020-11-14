@@ -1,0 +1,15 @@
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/mpatino/Desktop/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/mpatino/Desktop/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
