@@ -20,17 +20,18 @@ namespace GradeBook
             this.grades.Add(grade);
         }
 
-        public double showStatistics()
+        public Statistics ShowStatistics()
         {
+            var statistics = new Statistics();
 
             foreach (var g in this.grades)
             {
-                this.averageGrade += g;
+                statistics.AverageGrade += g;
             }
 
-            this.averageGrade /= this.grades.Count;
+            statistics.AverageGrade /= this.grades.Count;
 
-            return averageGrade;
+            return statistics;
 
         }
 

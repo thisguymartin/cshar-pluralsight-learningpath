@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace GradeBook
 {
@@ -12,9 +11,9 @@ namespace GradeBook
             book.AddGrade(40.74);
             book.AddGrade(80.74);
             book.AddGrade(99.74);
-            book.showStatistics();
+            var statistic = book.ShowStatistics();
 
-            Console.WriteLine($" {book.name} Average Grade: {Math.Round(book.averageGrade)}%");
+            Console.WriteLine($" {book.name} Average Grade: {Math.Round(statistic.AverageGrade)}%");
 
 
 

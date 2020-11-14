@@ -13,9 +13,9 @@ namespace GradeBook.Tests
             book.AddGrade(40.74);
             book.AddGrade(80.74);
             book.AddGrade(99.74);
-            book.showStatistics();
+            var statistic = book.ShowStatistics();
 
-            Assert.Equal(74, Math.Round(book.averageGrade));
+            Assert.Equal(74, Math.Round(statistic.AverageGrade));
             Assert.Equal("Martin", book.name);
 
 
