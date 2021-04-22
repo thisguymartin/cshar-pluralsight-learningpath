@@ -8,10 +8,10 @@ namespace GradeBook.Tests
         [Fact]
         public void UpdateObject()
         {
-            var book1 = GetBook("Martin P");
+            string name = "Martin P";
+            var book1 = GetBook(name);
             this.SetName(book1, "New Name");
-
-            Assert.Equal("Martin P", book1.name);
+            Assert.NotEqual(name, book1.name);
 
         }
 

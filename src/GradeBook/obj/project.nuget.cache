@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j4xWkEFDzZy4z53lQOacX1ktU/JWs4lxUzTch5EvVY2qRlzcamYsLj7GUeCEmqhcoSTG4VxoNWb7g+PBR+SO0Q==",
+  "dgSpecHash": "8y//vk3iCtbRtiqmuMKJiR4PXnA+u4qQzCR3QAqhfD8LNxt3olc71JmXRztAoYtQn6BX/8XS9+2c0HQ5NfdPXQ==",
   "success": true,
-  "projectFilePath": "/Users/mpatino/Desktop/gradebook/src/GradeBook/GradeBook.csproj",
+  "projectFilePath": "/Users/mpatino/Desktop/cshar-pluralsight-learningpath/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
